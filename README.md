@@ -1,4 +1,4 @@
-
+<p align="center"> ' 𝘥𝘪𝘴𝘢𝘴𝘴𝘦𝘮𝘣𝘭𝘦 , 𝘢𝘴𝘴𝘦𝘮𝘣𝘭𝘦 , 𝘳𝘦𝘤𝘳𝘦𝘢𝘵𝘦 . '
   <p align="center" width="100%">
     <img width="70%" src="https://i.postimg.cc/V6BTvMkf/Untitled806-20250127200800.png">
 </p>
